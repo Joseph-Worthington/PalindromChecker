@@ -31,4 +31,4 @@ To run this project locally, follow these steps:
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).# palindrom-checker
+This project is open source and available under the [MIT License](LICENSE).
